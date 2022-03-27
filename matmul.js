@@ -11,5 +11,5 @@ function matmul(mat1, mat2) {  // multiply a given set of matrices
   console.log(new_val);
   new_val = 0;
  }
- return new_mat;
+ return 1;
 }
